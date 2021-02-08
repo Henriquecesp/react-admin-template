@@ -27,7 +27,17 @@
 
 ## :information_source: About
 
-Working on initial template for starting new projects with React
+Working on initial template for starting new projects with React.
+<br />
+You simply need to create an .env file in your root folder, following the example of [.env-example](https://github.com/Henriquecesp/react-admin-template/blob/main/.env.example), fill in your Keycloak information and settings, install the dependencies with 
+```bash
+yarn install
+``` 
+and then start the project
+```bash
+yarn start
+```
+done! :D
 
 ## :interrobang: Reason
 
