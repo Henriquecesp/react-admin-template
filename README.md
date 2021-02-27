@@ -52,6 +52,7 @@ Node
 The project was developed using the following technologies
 
 - React
+- Typescript
 - Material - UI
 - Keycloak JS
 - React Router Dom
